@@ -11,11 +11,5 @@ Please watch a demonstration here:
 https://www.youtube.com/watch?v=9-GzBXwN2W0&feature=youtu.be
 
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+
 
